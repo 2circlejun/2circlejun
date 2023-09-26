@@ -1,12 +1,6 @@
-<h3 align="left"> </h3>
 
 
-<h2 align="center">
-  <img width="200" src="./Logo.gif" alt="대체 텍스트">
-</h2>
-
-
-<p align="left"> Hello I am Junior AI Developer and I am currently preparing a business POCA Web Service (Soon)<br></p>
+<p align="left"> Hello I am currently preparing POCA Web Service (Soon)<br></p>
 <h4 align="left"> Experience</h4>
 <pre>
 - Kim & Chang / Messenger 2016 ~ 2017
