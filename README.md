@@ -4,7 +4,6 @@
 <h4 align="left"> Experience</h4>
 <pre>
 - Kim & Chang / Messenger 2016 ~ 2017
-- Due Cose / Chef 2017~ 2018
 
 </pre>
 <h4 align="left">Project</h4>
