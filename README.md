@@ -1,6 +1,6 @@
 
 
-<p align="left"> Hello I am currently preparing POCA Web Service (Soon)<br></p>
+<p align="left"> 안녕하세요 <br></p>
 <h4 align="left"> Experience</h4>
 <pre>
 - Kim & Chang / Messenger 2016 ~ 2017
