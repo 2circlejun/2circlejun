@@ -3,16 +3,11 @@
 <p align="left"> 안녕하세요 <br></p>
 <h4 align="left"> Experience</h4>
 <pre>
-- Kim & Chang / Messenger 2016 ~ 2017
 
 </pre>
 <h4 align="left">Project</h4>
 <pre>
-- 금융소비자리포터 2022 (금융감독원)
-- Notification of Low Birth Rate Policy 2022 (Dongguk Univ)
-- 3D Pose Estimation paper with U_net 2022 (Kookmin Univ)
 - PoBook2 with SLAM, TTS, STT, Face Recognition, NLP 2023 (Postech)
-- YesTrader Futures Trading KP200 BackTesting 2021 ~ (개인투자)
 </pre>
 
 <h4 align="left"> Paper</h4>
